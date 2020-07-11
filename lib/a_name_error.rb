@@ -1,4 +1,1 @@
-def "Hello world"
-  
-puts 'Hello world'
-end
+puts "Hello world"
